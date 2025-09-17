@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pydantic
+mysql-connector-python
+python-dotenv
+kiteconnect
+holidays
